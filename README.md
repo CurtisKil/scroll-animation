@@ -14,6 +14,8 @@ Simple, but useful feature that uses CSS & JavaScript to slide in sections, imag
 
 ![](scroll-animation-1.gif)
 
+https://curtiskil.github.io/scroll-animation/
+
 ## Contributors
 
 Brad Traversy. Florin Pop.
