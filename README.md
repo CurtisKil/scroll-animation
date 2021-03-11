@@ -1,4 +1,4 @@
-# Your Project Title
+# Project Title
 
 Scroll Animation
 
